@@ -20,8 +20,8 @@ bool is_palindrome(std::string text) {
 
 int main() {
   
-  std::cout << is_palindrome("madam") << "\n";
-  std::cout << is_palindrome("ada") << "\n";
-  std::cout << is_palindrome("lovelace") << "\n";
+  std::cout << is_palindrome("player") << "\n";
+  std::cout << is_palindrome("tattarrattat") << "\n";
+  std::cout << is_palindrome("hannah") << "\n";
   
 }
